@@ -30,7 +30,7 @@ Among the techniques explained in the tutorials (Ipython notebooks), we can high
 </p>
 - Template matching
 <p align="center">
-	<img src="https://github.com/jaimeps/whale-sound-classification/blob/master/images/template_matching.png">
+	<img src="https://github.com/jaimeps/whale-sound-classification/blob/master/images/template_matching.png" width = 550>
 </p>
 
 ### References:
